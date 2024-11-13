@@ -13,6 +13,8 @@ This C++ Tic-Tac-Toe game is built using Embarcadero C++ Builder. It's a two-pla
 
 **Sample Video:**
 
+![Demo Video](https://github.com/user-attachments/assets/86ada1f0-de97-4137-aa66-f0615d4e1aa0)
+
 
 
 **Building the Project:**
