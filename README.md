@@ -15,6 +15,12 @@ This C++ Tic-Tac-Toe game is built using Embarcadero C++ Builder. It's a two-pla
 
 ![Demo Video](https://github.com/user-attachments/assets/86ada1f0-de97-4137-aa66-f0615d4e1aa0)
 
+**ScreenShots**
+
+| Main Page | Won Page | Draw Page |
+|---|---|---|
+| ![Image 1](https://github.com/user-attachments/assets/0daffee9-bc79-4774-8871-3827fd3d5bb9) | ![Won Page](https://github.com/user-attachments/assets/bc9569b2-0339-4c0e-99b4-68db78fc4e9d) | ![Draw Page](https://github.com/user-attachments/assets/19774e1e-9860-4f49-98da-7b5b6a4e0c77) |
+
 
 
 **Building the Project:**
